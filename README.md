@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/shyam888-git/shyam888-git/raw/output/snake.svg)
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
