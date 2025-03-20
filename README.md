@@ -1,5 +1,11 @@
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4 align="left">Hi 👋! My name is React Js, Next JS Developer and I'm a ..., from ....</h4>  
+
+- 🔹 Experienced in building dynamic and scalable web applications with React.js and Next.js  
+- 🔹 Proficient in server-side rendering (SSR) and static site generation (SSG) with Next.js  
+- 🔹 Skilled in integrating Material-UI (MUI) for modern and responsive UI components  
+- 🔹 Passionate about performance optimization and best practices in React and Next.js development  
+
 
 ###
 
