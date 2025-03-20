@@ -1,5 +1,6 @@
 
-<h4 align="left">Hi 👋! My name is React Js, Next JS Developer and I'm a ..., from ....</h4>  
+<h4 align="left">Hi 👋! My name is Shyam, I'm a React.js and Next.js Developer from Nepal.</h4>  
+
 
 - 🔹 Experienced in building dynamic and scalable web applications with React.js and Next.js  
 - 🔹 Proficient in server-side rendering (SSR) and static site generation (SSG) with Next.js  
