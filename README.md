@@ -1,16 +1,5 @@
-<h2 align="left">Hi 👋! My name is Shyam and I'm a React & Next.js Developer, from Nepal/h2>
-<div align="center">
-  <h3>🚀 React & Next.js Developer | 💻 Frontend Enthusiast | 🎨 UI/UX Passionate</h3>
-  <div align="center">
-  <h3>🚀 React & Next.js Developer | 💻 Frontend Enthusiast | 🎨 UI/UX Passionate</h3>
-  <ul align="left">
-    <li>👀 Interested in: Building modern, scalable web applications with React.js & Next.js.</li>
-    <li>🌱 Currently learning: Advanced Next.js features like ISR, SSR, and API routes.</li>
-    <li>💞️ Looking to collaborate on: Open-source projects, frontend libraries, and exciting UI/UX designs.</li>
-    <li>⚡ Fun fact: I love debugging more than writing code! 😆</li>
-  </ul>
-</div>
-</div>
+<h4 align="left">Hi 👋! My name is Shyam and I'm a React & Next.js Developer, from Nepal/h4>
+
 ###
 
 <div align="center">
