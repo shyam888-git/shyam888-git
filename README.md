@@ -58,5 +58,5 @@
 ###
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://github.com/shyamsharki/shyamsharki/blob/output/github-snake.svg)
-![GitHub Snake Dark](https://github.com/shyamsharki/shyamsharki/blob/output/github-snake-dark.svg)
+![GitHub Snake Light](https://github.com/shyam888-git/shyam888-git/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/shyam888-git/shyam888-git/blob/output/github-snake-dark.svg)
