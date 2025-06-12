@@ -56,3 +56,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](https://github.com/shyamsharki/shyamsharki/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/shyamsharki/shyamsharki/blob/output/github-snake-dark.svg)
