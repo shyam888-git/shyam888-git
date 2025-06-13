@@ -53,9 +53,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/shyam888-git/shyam888-git/output/github-snake.svg" alt="GitHub Contribution Snake" />
 
 ### 🐍 GitHub Contribution Snake (Dark Mode)
 
