@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:     # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allows manual trigger from Actions tab
 
 jobs:
   generate:
@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake Game SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: shyam888-git  # ← Your GitHub username here
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -20,7 +20,7 @@ jobs:
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output   # Branch that stores the generated SVGs
+          build_dir: dist         # Folder to publish
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Auto-injected by GitHub
